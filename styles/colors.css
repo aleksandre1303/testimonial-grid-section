@@ -1,0 +1,14 @@
+:root {
+  /* Bg color */
+  --bg-color: #ecf2f8;
+
+  /* Text */
+  --white: #fff;
+  --light-gray: #cfcfcf;
+  --dark-cyan: #48556a;
+
+  /* Card bg color */
+  --purple: #733fc8;
+  --light-blue: #48556a;
+  --dark-blue: #19202d;
+}
