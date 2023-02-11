@@ -28,8 +28,8 @@ resource file: https://www.figma.com/file/BKmfaSIKF1A75Vk3xxE5Qq/Untitled?node-i
 
 ### Links
 
-- Solution URL:  https://github.com/aleksandre1303/review-cards-component  
-- Live Site URL: https://aleksandre1303.github.io/review-cards-component/
+- Solution URL:  https://github.com/aleksandre1303/testimonial-grid-section 
+- Live Site URL: https://aleksandre1303.github.io/testimonial-grid-section/
 
 
 ## Author
