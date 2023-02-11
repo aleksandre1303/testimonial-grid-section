@@ -23,7 +23,7 @@ resource file: https://www.figma.com/file/BKmfaSIKF1A75Vk3xxE5Qq/Untitled?node-i
 
 ### Screenshot
 
-<img width="1440" alt="Desktop - 1" src="https://user-images.githubusercontent.com/67371847/217897129-a55537f6-b8a5-461f-ae62-7ff4f28cbb09.png">
+<img width="1440" alt="desktop" src="https://user-images.githubusercontent.com/67371847/218259624-b5071ac0-db56-4907-b2ad-67cfa4b119fb.png">
 
 
 ### Links
@@ -41,6 +41,7 @@ resource file: https://www.figma.com/file/BKmfaSIKF1A75Vk3xxE5Qq/Untitled?node-i
 
 ### Built with
 
+- Mobile first
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox and Grid Layout
@@ -48,8 +49,8 @@ resource file: https://www.figma.com/file/BKmfaSIKF1A75Vk3xxE5Qq/Untitled?node-i
 
 
 ### What I learned
-I learned basic CSS Grid layout, I understood well what is the difference between grid and flexbox
-I also learned how to store fonts and colors in a variable and use them, which makes later editing much easier
+I learned basic CSS Grid layout, how to make responsive with Grid and
+I understood well what is the difference between grid and flexbox
 🚀🚀✊
 
 
